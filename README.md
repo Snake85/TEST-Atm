@@ -1,8 +1,7 @@
 TEST-Atm
 ========
 
-Test for a company
-Backend Developer Test – ATM Simulation
+Test for a company - Backend Developer Test – ATM Simulation
 
 Instructions:
 You will create an application that addresses the problem described below. Your application must be written in Java, Python, NodeJS or PHP.
