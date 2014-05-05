@@ -4,6 +4,7 @@ TEST-Atm
 Test for a company - Backend Developer Test – ATM Simulation
 
 Instructions:
+
 You will create an application that addresses the problem described below. Your application must be written in Java, Python, NodeJS or PHP.
 Your application may have a Web UI, or it can run on the Command Line. This test is focused on the Backend, so any Frontend "sugar" won't be considered as beneficial in this test.
 All source code must be delivered as part of the solution, as well as clear instructions on how to build and run your application.
@@ -14,7 +15,8 @@ Incorrect use of design patterns, or tests that add no value will be considered 
 If you are using libraries and/or frameworks, please provide a small explanation of the library/framework, and why they added value to your solution.
 Good luck.
 
-Requirements
+Requirements:
+
 We need an application that simulates the Backend logic of a cash dispensing Automatic Teller Machine (ATM).
 Of course the application is not required to distribute money, but it should be able to simulate and report the outcome of people requesting money.
 This simulation will not require any authentication or PIN to access the ATM.
